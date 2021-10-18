@@ -4,10 +4,10 @@ def add(x,y):
 #sub implementation
 def subtract(x,y):
     pass
-    
+#mul implementation   
 def multiply(x,y):
     pass
-    
+#dev implementation   
 def devide(x,y):
 
     
