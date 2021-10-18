@@ -1,6 +1,7 @@
+#add implementation
 def add(x,y):
     pass
-
+#sub implementation
 def subtract(x,y):
     pass
     
@@ -15,4 +16,5 @@ def devide(x,y):
         return DEVIDE_BY_O
     else:
         return x/y
+
 
